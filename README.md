@@ -1,2 +1,2 @@
-# gh-pages-portfolio-talk
-This talk goes through how to make a personal portfolio with GH-pages
+## Reveal.JS starter site
+http://lab.hakim.se/reveal-js/#/
